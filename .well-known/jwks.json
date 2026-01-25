@@ -1,0 +1,8 @@
+{
+  "kty": "RSA",
+  "use": "sig",
+  "alg": "RS256",
+  "kid": "ecw-key-2026-01",
+  "n": "5BcFQcl-m7vmOdR0Shmfr4T-Y18JlUwUuVfWR8PCJdGq9PBQ9v_KqgtAiH7FhZ5iOBhcXeQ2RnMbydx4IMomwkEHZlSv70QIuWwD5XRmx_2v51E4Np2ceIdUezZYs6hAuRSQn2nLRRL-814RXXU6_1Zb7uByvIyi6kBjRGGE3sWd2dWhkYe8jE_h3noXtiTmhxNXK795hcHyIh1U9bm2GPPJP-Mj9AxVux39fdMXF5R49xF3N_JpEQAraqMe8NrLZCTEllQoDtW2ih8kbcRHrXkUfbszry0eZODKoQMckpgYyKh1tHmioq1jTd3oka4Fu6zdNLyL_Ioz5JWx2IZchw",
+  "e": "AQAB"
+}
